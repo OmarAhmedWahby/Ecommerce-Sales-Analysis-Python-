@@ -64,7 +64,7 @@ The goal is to uncover meaningful insights into how different factors—such as 
 
 ## **👤 Customer Segment Performance**
 
-![](images-Ecommerce-Analysis/Count%20of%20Orders%20By20Segment.png)
+![](images-Ecommerce-Analysis/Count%20of%20Orders%20By%20Segment.png)
 
 ### **Recommendations**
 
