@@ -9,4 +9,4 @@ The goal is to uncover meaningful insights into how different factors—such as 
 ### **📈 Sales Trends Over Time**
 
 
-![Time Series Sales Chart](images-Ecommerce-Analysis/TimeSeries.png)
+![](images-Ecommerce-Analysis/TimeSeries.png)
