@@ -8,5 +8,6 @@ The goal is to uncover meaningful insights into how different factors—such as 
 
 ### **📈 Sales Trends Over Time**
 
-
+![](images-Ecommerce-Analysis/Sales%20By%20Month(LineChart).png)
 ![](images-Ecommerce-Analysis/TimeSeries.png)
+
