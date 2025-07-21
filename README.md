@@ -14,11 +14,11 @@ The goal is to uncover meaningful insights into how different factors—such as 
 
 ### 📊 **Sales Trends Overview**
 
-1 **November** consistently shows the **highest sales**, making it the **peak month** for business performance.
-2 **February** records the **lowest sales**, indicating a **drop in customer activity** during this period.
-3 The last four months (**September to December**) contribute the **majority of annual sales**, emphasizing their **critical importance**.
-4 A **spike in March sales** was observed due to a **single large customer order (~22.6K)** — this is considered an **anomaly**, not a recurring pattern.
-5 **Summer months** show a **noticeable decline**, suggesting a need for **summer-specific campaigns** to boost performance.
+- 1 **November** consistently shows the **highest sales**, making it the **peak month** for business performance.
+- 2 **February** records the **lowest sales**, indicating a **drop in customer activity** during this period.
+- 3 The last four months (**September to December**) contribute the **majority of annual sales**, emphasizing their **critical importance**.
+- 4 A **spike in March sales** was observed due to a **single large customer order (~22.6K)** — this is considered an **anomaly**, not a recurring pattern.
+- 5 **Summer months** show a **noticeable decline**, suggesting a need for **summer-specific campaigns** to boost performance.
 
 ---
 
@@ -60,7 +60,7 @@ The goal is to uncover meaningful insights into how different factors—such as 
   
 - **Ensure sufficient weekend operational resources** (staff, logistics, support) are in place to sustain high order volume and maintain service quality, especially for **high-value deliveries**
 
-========================================================================================================================================================================================================================
+============================================================================================================================
 
 ## **👤 Customer Segment Performance**
 
@@ -73,7 +73,8 @@ The goal is to uncover meaningful insights into how different factors—such as 
 - **This indicates a strong orders from the Consumer segment, suggesting the need to prioritize and expand product offerings tailored to this group**
 
 
-========================================================================================================================================================================================================================
+============================================================================================================================
+
 
 ## **🛍️ Sales by Category**
 
@@ -84,7 +85,8 @@ The goal is to uncover meaningful insights into how different factors—such as 
 - **Technology generated the highest sales**, followed by **Furniture, while Office Supplies** recorded the lowest
 - Consider enhancing promotions for Office Supplies to **improve visibility and competitiveness in this lower-performing category**
 
-========================================================================================================================================================================================================================
+============================================================================================================================
+
 
 ## **🧭 Sales by Region**
 
@@ -95,7 +97,8 @@ The goal is to uncover meaningful insights into how different factors—such as 
 - **The West region recorded the highest sales, while both the South and Central regions showed the lowest** 
 - **Targeted advertising and promotional offers in these areas are recommended to increase market reach**
 
-========================================================================================================================================================================================================================
+============================================================================================================================
+
 
 ## **🗺️ Sales Performance by State**
 
